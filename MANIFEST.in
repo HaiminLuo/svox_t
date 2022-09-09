@@ -1,0 +1,17 @@
+include README.md
+include LICENSE.txt
+include MANIFEST.in
+include setup.py
+include svox_t/svox.py
+include svox_t/helpers.py
+include svox_t/sh.py
+include svox_t/renderer.py
+include svox_t/__init__.py
+include svox_t/version.py
+include svox_t/csrc/include/common.cuh
+include svox_t/csrc/include/data_spec.hpp
+include svox_t/csrc/include/data_spec_packed.cuh
+include svox_t/csrc/svox.cpp
+include svox_t/csrc/svox_kernel.cu
+include svox_t/csrc/rt_kernel.cu
+include svox_t/csrc/quantizer.cpp

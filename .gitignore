@@ -1,0 +1,7 @@
+log.txt
+build/
+svox_t.egg-info/
+build.sh
+.vscode
+.eggs
+.ipynb_checkpoints/
