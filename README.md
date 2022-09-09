@@ -4,8 +4,10 @@ Project Page: https://haiminluo.github.io/publication/artemis
 This repository contains a differentiable dynamic feature-level octree and renderer implementation
 as a PyTorch CUDA extension described in  
 
-Artemis: Articulated Neural Pets with Appearance and Motion Synthesis<br>
+```
+Artemis: Articulated Neural Pets with Appearance and Motion Synthesis
 Luo, Haimin and Xu, Teng and Jiang, Yuheng and Zhou, Chenglin and Qiu, Qiwei and Zhang, Yingliang and Yang, Wei and Xu, Lan and Yu, Jingyi
+```
 
 This codebase supports real-time volume animating, real-time octree construction and real-time feature-level volume rendering with opacity/depth generation. 
 
