@@ -1,8 +1,7 @@
 # svox_t
 Project Page: https://haiminluo.github.io/publication/artemis
 
-This repository contains a differentiable dynamic feature-level octree and renderer implementation
-as a PyTorch CUDA extension described in  
+This repository contains a differentiable dynamic animatable volume and renderer implementation as a PyTorch CUDA extension described in  
 
 ```
 Artemis: Articulated Neural Pets with Appearance and Motion Synthesis
