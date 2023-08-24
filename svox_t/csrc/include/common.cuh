@@ -26,7 +26,7 @@
  */
 
 #pragma once
-
+#define THRUST_IGNORE_CUB_VERSION_CHECK
 #include <torch/extension.h>
 #include <cuda.h>
 #include <cuda_runtime.h>
